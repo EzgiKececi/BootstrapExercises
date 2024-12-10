@@ -1,0 +1,9 @@
+body{
+    background-color: #5f5f5f;
+}
+a{
+    color: aliceblue;
+}
+a:hover{
+    color: black;
+}
